@@ -6,7 +6,7 @@ Last updated: April 2026
 
 To request deletion of your account and associated data, please email:
 
-📧 your@email.com
+📧 dev@breathepk.com
 
 Include:
 - The email associated with your account
@@ -43,4 +43,4 @@ Upon request, we will delete:
 
 For any questions:
 
-📧 your@email.com
+📧 dev@breathepk.com
