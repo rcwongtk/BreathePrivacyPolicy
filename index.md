@@ -88,4 +88,4 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 
 If you have any questions, contact us at:
 
-📧 your@email.com
+📧 dev@breathepk.com
